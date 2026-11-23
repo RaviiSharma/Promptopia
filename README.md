@@ -140,7 +140,7 @@ promptopia/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/promptopia.git
+git clone https://github.com/RaviiSharma/promptopia.git
 ```
 
 ### 2. Navigate to the Project
@@ -281,12 +281,12 @@ https://your-domain.com/api/auth/callback/google
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ravi**
 
 Full Stack Developer | MERN Stack Developer
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-username
+- GitHub: https://github.com/RaviiSharma
+- LinkedIn: https://www.linkedin.com/in/ravi-kumar-sharma-/
 
 ---
 
