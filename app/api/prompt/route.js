@@ -1,5 +1,6 @@
 import { connectToDB } from "@utils/database";
 import Prompt from "@models/prompt";
+import User from "@models/user"; // registers the model so populate("creator") works
 
 export const GET = async (req) => {
   try {
